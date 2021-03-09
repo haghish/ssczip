@@ -6,7 +6,7 @@ Most of Stata software are published on _Boston College Statistical Software Com
 
 __`ssczip`__ packages and download Stata packages from SSC as a zip file. More importantly, it also reads the source code and includes the last release date of the package (as a unique identifier of version). 
 
-With this package, you can download and store the current versions of the add-on packages you use in your data analysis and incase they change in the future, you can re-run and reproduce your previous analyses using the previous versions. 
+With this package, you can download and store the current versions of the add-on packages you use in your data analysis and in case they change in the future, you can re-run and reproduce your previous analyses using the previous versions. 
 
 
 ## Installation

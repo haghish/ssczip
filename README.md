@@ -1,3 +1,5 @@
+> __Cite__: Haghish, E. F. (2020). Developing, maintaining, and hosting Stata statistical software on GitHub. The Stata Journal, 20(4), 931-951.
+
 # ssczip
 
 Most of Stata software are published on _Boston College Statistical Software Components_ (SSC) Archive. However, Stata lacks a modular package installation and thus Stata user-written packages are stored in many directories with alphabetic names to ensure all program names are unique. The mere consequence is that SSC packages cannot be downloaded as Zip files and also, their versions can only be looked up by reading the source... 
